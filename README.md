@@ -1,6 +1,6 @@
 # GMODCSG
 
-GMODCSG is an attemp to use live CSG (constructible solid geometry) to GMOD
+GMODCSG is an attemp to use live CSG (constructible solid geometry) into GMOD<br/><br/>
 It still pretty buggy, as it's just a test. Feel free to modify the code as you wish, giving credits to the original authors bellow:
 <br/><br/>
 Class.lua:<br/>
