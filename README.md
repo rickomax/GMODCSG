@@ -25,7 +25,7 @@ GMOD installation directory.<br/>
   -Pos - Brush Position<br/>
   -Angles - Brush Rotation<br/>
   -Size - Brush Size (bounds)<br/>
-  -GlobalSize - Brush Size Multiplier<br/>
+  -SizeMultiplier - Brush Size Multiplier<br/>
   -Additive - If this brush is a CSG addition or subtraction<br/>
 *Also on the context menu, there is a button "Rebuild" on the CSG Window. Clicking it will build the actual mesh from CSG brushes
 
