@@ -8,18 +8,14 @@ Class.lua:<br/>
 -Copyright 2012 Two Lives Left Pty. Ltd.<br/>
 -Licensed under the Apache License, Version 2.0<br/>
 -http://www.apache.org/licenses/LICENSE-2.0<br/><br/>
-
 CSG.JS:<br/>
 -Copyright (c) 2011 Evan Wallace (http://madebyevan.com/)<br/>
 -Licensed under the MIT license.<br/>
 -https://opensource.org/licenses/mit-license.php<br/><br/>
-
 CSG.JS - LUA port by:<br/>
 -Tobias Teleman<br/>
 -https://github.com/tnlogy/csg.js<br/><br/>
-
 Testing the code:<br/><br/>
-
 *Copy the contents of this repository over your "lua" folder on your
 GMOD installation directory.<br/>
 *Start a new Sandbox Game.<br/>
