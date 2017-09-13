@@ -15,7 +15,7 @@ CSG.JS:<br/>
 -https://opensource.org/licenses/mit-license.php<br/><br/>
 
 CSG.JS - LUA port. Original code:<br/>
--Toibas Teleman<br/>
+-Tobias Teleman<br/>
 -https://github.com/tnlogy/csg.js<br/><br/>
 
 Testing the code:<br/><br/>
