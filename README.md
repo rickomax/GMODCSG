@@ -29,3 +29,9 @@ GMOD installation directory.<br/>
   -Additive - If this brush is a CSG addition or subtraction<br/>
 *Also on the context menu, there is a button "Rebuild" on the CSG Window. Clicking it will build the actual mesh from CSG brushes
 
+Known issues (most important ones):
+*Depending on the complexicity of the CSG operators, GMOD may crash due to an excessive stack operation
+*Internal subtraction intersected faces are flipped (seems easy to be fixed)
+*CSG.JS normals are incorrect
+*Brush sizes smaller or equal to 0 may crash GMOD
+*CSG brush shadows must be disabled
