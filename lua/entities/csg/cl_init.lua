@@ -4,7 +4,7 @@ include("csgbuilder.lua")
 local wireframeMaterial = Material("editor/wireframe")
 
 function ENT:Draw()
-	cam.PushModelMatrix(self.matrix)
+	cam.PushModelMatrix(self.translationRotationMatrix)
 	render.SetColorMaterial()
 	self.mesh:Draw()
 	render.SetMaterial(wireframeMaterial)
