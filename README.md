@@ -27,7 +27,7 @@ GMOD installation directory.<br/>
   -Size - Brush Size (bounds)<br/>
   -SizeMultiplier - Brush Size Multiplier<br/>
   -Additive - If this brush is a CSG addition or subtraction<br/>
-*Also on the context menu, there is a button "Rebuild" on the CSG Window. Clicking it will build the actual mesh from CSG brushesbr/><br/>
+*Also on the context menu, there is a button "Rebuild" on the CSG Window. Clicking it will build the actual mesh from CSG brushes<br/>
 
 Known issues (most important ones):<br/>
 *Depending on the complexicity of the CSG operators, GMOD may crash due to an excessive stack operation<br/>
