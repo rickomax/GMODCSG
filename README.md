@@ -17,7 +17,7 @@ CSG.JS - LUA port. Original code:<br/>
 -Toibas Teleman<br/>
 -https://github.com/tnlogy/csg.js<br/><br/>
 
-At the moment, to test the code:<br/><br/>
+Testing the code:<br/><br/>
 
 *Copy the contents of this repository over your "lua" folder on your
 GMOD installation directory.<br/>
